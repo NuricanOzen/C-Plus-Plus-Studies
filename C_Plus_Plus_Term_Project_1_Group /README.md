@@ -2,7 +2,6 @@
 
 # 🇬🇧 1913 US Income Tax Calculator
 
-Welcome! 👋
 
 This project is an automated tax calculator developed for the **CMPE 140 - Computer Programming 1** course at **Kadir Has University**. It calculates the exact income tax based on the original U.S. income tax schedule of 1913.
 
@@ -13,8 +12,6 @@ This project is an automated tax calculator developed for the **CMPE 140 - Compu
 ---
 
 # 🇹🇷 1913 ABD Gelir Vergisi Hesaplayıcı
-
-Hoş geldiniz! 👋
 
 Bu proje, **Kadir Has Üniversitesi CMPE 140 - Bilgisayar Programlama 1** dersi kapsamında geliştirilmiş otomatik bir vergi hesaplayıcıdır. 1913 yılı orijinal ABD gelir vergisi tarifesine göre kademeli vergi hesaplaması yapmaktadır.
 
