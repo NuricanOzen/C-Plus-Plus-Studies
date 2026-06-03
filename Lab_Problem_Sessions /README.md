@@ -18,10 +18,6 @@ Manages and analyzes the battery statuses of a fleet of robots using 1D arrays.
 
 ---
 
-*Compiled and tested using standard C++ compilers (GCC/MSVC).*
-
----
-
 # CMPE 140 - Laboratuvar Uygulama Çalışmaları (PS)
 
 Bu dizin, **Kadir Has Üniversitesi CMPE 140 - Bilgisayar Programlama 1** dersi süresince haftalık laboratuvar oturumlarında (Problem Sessions) geliştirilen temel programlama egzersizlerini içermektedir. Kodlar, mühendislik mantığı problemlerine uygulanan temel ve orta düzey C++ programlama kavramlarını göstermektedir.
@@ -40,6 +36,3 @@ Akademik ve disiplin kriterlerini belirli üniversite kabul şartlarına göre d
 Bir robot filosunun batarya durumlarını tek boyutlu diziler (array) kullanarak yönetir ve analiz eder.
 * **Temel Kavramlar:** Özel fonksiyonlar (`printBattery`, `countAbove`, `chargeAll`) ile modüler mimari, döngülerle dizi manipülasyonu ve verilerin korunması için `const` parametre kullanımı.
 
----
-
-*Standart C++ derleyicileri (GCC/MSVC) kullanılarak derlenmiş ve test edilmiştir.*
