@@ -1,4 +1,3 @@
-![Status](https://img.shields.io/badge/Status-Completed-success)
 
 # 🇬🇧 1913 US Income Tax Calculator
 
