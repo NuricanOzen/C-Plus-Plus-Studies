@@ -1,7 +1,7 @@
 Bu program, 1913 ABD gelir vergisi sistemini simüle eden bir C++ konsol uygulamasıdır. Algoritmanın çalışma adımları şu şekildedir:
 
-Değişken Tanımlamaları: Limit ve Rate değerleri, vergi dilimlerinin sabit kalması ve çalışma zamanında (runtime) değiştirilmemesi için const double veri tipiyle tanımlanmıştır.
+- Değişken Tanımlamaları: Limit ve Rate değerleri, vergi dilimlerinin sabit kalması ve çalışma zamanında (runtime) değiştirilmemesi için const double veri tipiyle tanımlanmıştır.
 
-Girdi Kontrolü (Input Validation): Kullanıcıdan alınan Dollar değerinin 0'dan küçük olup olmadığı ilk if bloğu ile denetlenir. Negatif bir değer tespit edilirse, sistem uyarısı verilip kod güvenli bir şekilde sonlandırılır.
+- Girdi Kontrolü (Input Validation): Kullanıcıdan alınan Dollar değerinin 0'dan küçük olup olmadığı ilk if bloğu ile denetlenir. Negatif bir değer tespit edilirse, sistem uyarısı verilip kod güvenli bir şekilde sonlandırılır.
 
-Koşullu Vergi Hesaplama: Kullanıcının geliri, birbirine bağlı else if bloklarından geçirilir. Vergi hesaplaması kademelidir; alt dilimlerin vergileri sabit tutulup toplanırken, sadece bulunulan aralığa taşan miktar ilgili yüzdelik oranla çarpılarak toplam faturaya eklenir.
+- Koşullu Vergi Hesaplama: Kullanıcının geliri, birbirine bağlı else if bloklarından geçirilir. Vergi hesaplaması kademelidir; alt dilimlerin vergileri sabit tutulup toplanırken, sadece bulunulan aralığa taşan miktar ilgili yüzdelik oranla çarpılarak toplam faturaya eklenir.
